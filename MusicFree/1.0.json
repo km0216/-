@@ -1,0 +1,29 @@
+{
+  "plugins": [
+    {
+      "name": "酷我",
+      "url": "https://raw.githubusercontent.com/15099591595/-/main/MusicFree/kw.js",
+      "version": "0.1.7"
+    },
+    {
+      "name": "qq音乐",
+      "url": "https://raw.githubusercontent.com/15099591595/-/main/MusicFree/qq.js",
+      "version": "0.2.2-alpha.3"
+    },
+    {
+      "name": "网易云",
+      "url": "https://raw.githubusercontent.com/15099591595/-/main/MusicFree/wy.js",
+      "version": "0.2.3"
+    },
+    {
+      "name": "喜马拉雅",
+      "url": "https://raw.githubusercontent.com/15099591595/-/main/MusicFree/xmla.js",
+      "version": "0.1.6"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://raw.githubusercontent.com/15099591595/-/main/MusicFree/migu.js",
+      "version": "0.2.2"
+    },
+  ]
+}
